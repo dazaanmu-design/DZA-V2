@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
     private LinearLayout errorView;
     private ValueCallback<Uri[]> filePathCallback;
     private static final int FILE_CHOOSER_REQUEST_CODE = 1001;
-    private static final String HOME_URL = "https://script.google.com/macros/s/AKfycbxU1p8pGrKpci6bZk5xvDGpaxTZIzUMH_L_YFQv-KFU2lviP3Fgn0rGACChmgLSWYQl/exec";
+    private static final String HOME_URL = "https://sites.google.com/view/home-dza/home";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
