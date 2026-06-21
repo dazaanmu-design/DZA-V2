@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
     private LinearLayout errorView;
     private ValueCallback<Uri[]> filePathCallback;
     private static final int FILE_CHOOSER_REQUEST_CODE = 1001;
-    private static final String HOME_URL = "https://sites.google.com/view/home-dza/home";
+    private static final String HOME_URL = "https://dza-v1.netlify.app/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
